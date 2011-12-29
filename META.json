@@ -40,7 +40,7 @@
    "provides" : {
       "Net::IDN::IDNA2003" : {
          "file" : "lib/Net/IDN/IDNA2003.pm",
-         "version" : "0.999_20111228"
+         "version" : "0.999_20111229"
       }
    },
    "release_status" : "testing",
@@ -49,5 +49,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.999_20111228"
+   "version" : "0.999_20111229"
 }
