@@ -1,5 +1,5 @@
 ---
-abstract: 'Internationalizing Domain Names, 2003 edition (RFC 3490)'
+abstract: 'Internationalizing Domain Names in Applications (2003) (RFC 3490)'
 author:
   - 'Claus Färber <CFAERBER@cpan.org>'
 build_requires:
@@ -20,10 +20,10 @@ no_index:
 provides:
   Net::IDN::IDNA2003:
     file: lib/Net/IDN/IDNA2003.pm
-    version: 0.999_20111229
+    version: 1.000
 requires:
   Net::IDN::Nameprep: 1.1
   Net::IDN::Punycode: 1
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.999_20111229
+version: 1.000
